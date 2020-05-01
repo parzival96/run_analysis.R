@@ -1,1 +1,1 @@
-# run_analysis.R
+# Getting and Cleaning data course project
